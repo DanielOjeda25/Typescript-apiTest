@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "date": "2015-01-01",
+    "weather": "sunny",
+    "visibility": "poor",
+    "comment": "Pretty scary flightm Im glad Im alive"
+  },
+  {
+    "id": 2,
+    "date": "2017-01-01",
+    "weather": "rainy",
+    "visibility": "good",
+    "comment": "Every went better than expected, Im learning a lot"
+  },
+  {
+    "id": 3,
+    "date": "2018-01-01",
+    "weather": "cloudy",
+    "visibility": "bad",
+    "comment": "Send help"
+  },
+  {
+    "id": 4,
+    "date": "2019-01-01",
+    "weather": "good",
+    "visibility": "good",
+    "comment": "I am learning a lot, tomorrow I will flight to London"
+  }
+
+]
